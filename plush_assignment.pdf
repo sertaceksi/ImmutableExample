@@ -1,0 +1,440 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+13 0 R
+15 0 R
+19 0 R
+]
+/Count 4
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20220325061622+00'00')
+/ModDate (D:20220325061622+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 11 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6330 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 768.985 Td /F1 24.0 Tf  [(PlushMarket)] TJ ET
+BT 34.016 735.797 Td /F2 12.0 Tf  [(Plush market is a trading place for all the fluffy plush toys.)] TJ ET
+BT 34.016 709.541 Td /F2 12.0 Tf  [(In the market you can either )] TJ ET
+BT 171.980 709.541 Td /F1 12.0 Tf  [(sell your plush directly at the current market price)] TJ ET
+BT 431.948 709.541 Td /F2 12.0 Tf  [( or )] TJ ET
+BT 447.944 709.541 Td /F1 12.0 Tf  [(trade it for another )] TJ ET
+BT 34.016 695.285 Td /F1 12.0 Tf  [(one)] TJ ET
+BT 52.016 695.285 Td /F2 12.0 Tf  [(. Each trade can only be done once.)] TJ ET
+BT 34.016 669.029 Td /F2 12.0 Tf  [(Your goal is to implement functionality, which calculates the )] TJ ET
+BT 330.656 669.029 Td /F1 12.0 Tf  [(optimal plush toy sales strategy)] TJ ET
+BT 491.324 669.029 Td /F2 12.0 Tf  [(: - Maximizes )] TJ ET
+BT 34.016 654.773 Td /F2 12.0 Tf  [(the sales price - Minimizes the number of trades)] TJ ET
+BT 34.016 619.875 Td /F1 18.0 Tf  [(Things to remember \(Not entirely relevant for a verbal discussion\))] TJ ET
+0.000 0.000 0.000 RG
+57.816 592.358 m 
+57.816 592.908 57.589 593.454 57.201 593.843 c
+56.812 594.232 56.266 594.458 55.716 594.458 c
+55.166 594.458 54.620 594.232 54.231 593.843 c
+53.842 593.454 53.616 592.908 53.616 592.358 c
+53.616 591.808 53.842 591.262 54.231 590.873 c
+54.620 590.485 55.166 590.258 55.716 590.258 c
+56.266 590.258 56.812 590.485 57.201 590.873 c
+57.589 591.262 57.816 591.808 57.816 592.358 c f
+BT 64.016 589.253 Td /F2 12.0 Tf  [(Work on the assignment as if it was production code worth 10M EUR)] TJ ET
+57.816 578.102 m 
+57.816 578.652 57.589 579.198 57.201 579.587 c
+56.812 579.976 56.266 580.202 55.716 580.202 c
+55.166 580.202 54.620 579.976 54.231 579.587 c
+53.842 579.198 53.616 578.652 53.616 578.102 c
+53.616 577.552 53.842 577.006 54.231 576.617 c
+54.620 576.229 55.166 576.002 55.716 576.002 c
+56.266 576.002 56.812 576.229 57.201 576.617 c
+57.589 577.006 57.816 577.552 57.816 578.102 c f
+BT 64.016 574.997 Td /F2 12.0 Tf  [(Your answer will be graded on the basis of correctness \(it works\) and code quality \(others can see how )] TJ ET
+BT 64.016 560.741 Td /F2 12.0 Tf  [(it works\))] TJ ET
+57.816 549.590 m 
+57.816 550.140 57.589 550.686 57.201 551.075 c
+56.812 551.464 56.266 551.690 55.716 551.690 c
+55.166 551.690 54.620 551.464 54.231 551.075 c
+53.842 550.686 53.616 550.140 53.616 549.590 c
+53.616 549.040 53.842 548.494 54.231 548.105 c
+54.620 547.717 55.166 547.490 55.716 547.490 c
+56.266 547.490 56.812 547.717 57.201 548.105 c
+57.589 548.494 57.816 549.040 57.816 549.590 c f
+BT 64.016 546.485 Td /F2 12.0 Tf  [(The solution must be submitted by opening a pull request on the GitHub project repository)] TJ ET
+57.816 535.334 m 
+57.816 535.884 57.589 536.430 57.201 536.819 c
+56.812 537.208 56.266 537.434 55.716 537.434 c
+55.166 537.434 54.620 537.208 54.231 536.819 c
+53.842 536.430 53.616 535.884 53.616 535.334 c
+53.616 534.784 53.842 534.238 54.231 533.849 c
+54.620 533.461 55.166 533.234 55.716 533.234 c
+56.266 533.234 56.812 533.461 57.201 533.849 c
+57.589 534.238 57.816 534.784 57.816 535.334 c f
+BT 64.016 532.229 Td /F2 12.0 Tf  [(Include tests in your answer)] TJ ET
+57.816 521.078 m 
+57.816 521.628 57.589 522.174 57.201 522.563 c
+56.812 522.952 56.266 523.178 55.716 523.178 c
+55.166 523.178 54.620 522.952 54.231 522.563 c
+53.842 522.174 53.616 521.628 53.616 521.078 c
+53.616 520.528 53.842 519.982 54.231 519.593 c
+54.620 519.205 55.166 518.978 55.716 518.978 c
+56.266 518.978 56.812 519.205 57.201 519.593 c
+57.589 519.982 57.816 520.528 57.816 521.078 c f
+BT 64.016 517.973 Td /F2 12.0 Tf  [(You are free to use any library from )] TJ ET
+0.000 0.000 0.800 rg
+BT 239.960 517.973 Td /F2 12.0 Tf  [(Maven Central)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+239.960 515.273 m 311.612 515.273 l S
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+57.816 506.822 m 
+57.816 507.372 57.589 507.918 57.201 508.307 c
+56.812 508.696 56.266 508.922 55.716 508.922 c
+55.166 508.922 54.620 508.696 54.231 508.307 c
+53.842 507.918 53.616 507.372 53.616 506.822 c
+53.616 506.272 53.842 505.726 54.231 505.337 c
+54.620 504.949 55.166 504.722 55.716 504.722 c
+56.266 504.722 56.812 504.949 57.201 505.337 c
+57.589 505.726 57.816 506.272 57.816 506.822 c f
+BT 64.016 503.717 Td /F2 12.0 Tf  [(Pay attention to the aesthetics and maintainability of your code)] TJ ET
+BT 34.016 468.819 Td /F1 18.0 Tf  [(The Assignment)] TJ ET
+BT 34.016 438.197 Td /F2 12.0 Tf  [(You need to implement the )] TJ ET
+BT 167.672 438.197 Td /F3 12.0 Tf  [(PlushMarket)] TJ ET
+BT 246.872 438.197 Td /F2 12.0 Tf  [( interface to return the optimal strategy.)] TJ ET
+BT 34.016 413.386 Td /F3 12.0 Tf  [(public interface PlushMarket {)] TJ ET
+BT 34.016 400.936 Td /F3 12.0 Tf  [(    String calculateStrategy\(String offerJSON, String marketJSON\);)] TJ ET
+BT 34.016 388.486 Td /F3 12.0 Tf  [(})] TJ ET
+BT 34.016 362.591 Td /F2 12.0 Tf  [(The interface uses )] TJ ET
+BT 124.316 362.591 Td /F3 12.0 Tf  [(JSON)] TJ ET
+BT 153.116 362.591 Td /F2 12.0 Tf  [( format for both input and response. For the exact format of the input and response )] TJ ET
+BT 34.016 348.335 Td /F3 12.0 Tf  [(JSON)] TJ ET
+BT 62.816 348.335 Td /F2 12.0 Tf  [( check the examples below.)] TJ ET
+BT 34.016 313.436 Td /F1 18.0 Tf  [(Examples)] TJ ET
+BT 34.016 280.876 Td /F1 14.0 Tf  [(Example 1)] TJ ET
+BT 34.016 254.135 Td /F2 12.0 Tf  [(If the )] TJ ET
+BT 62.672 254.135 Td /F3 12.0 Tf  [(offerJSON)] TJ ET
+BT 127.472 254.135 Td /F2 12.0 Tf  [( is)] TJ ET
+BT 34.016 229.324 Td /F3 12.0 Tf  [({"plush": "Stella"})] TJ ET
+BT 34.016 203.429 Td /F2 12.0 Tf  [(and )] TJ ET
+BT 54.344 203.429 Td /F3 12.0 Tf  [(marketJSON)] TJ ET
+BT 126.344 203.429 Td /F2 12.0 Tf  [( is)] TJ ET
+BT 34.016 178.618 Td /F3 12.0 Tf  [({"plushes": [)] TJ ET
+BT 34.016 166.167 Td /F3 12.0 Tf  [(    {"plush": "RedBird", "price": 80},)] TJ ET
+BT 34.016 153.717 Td /F3 12.0 Tf  [(    {"plush": "Stella", "price": 90},)] TJ ET
+BT 34.016 141.267 Td /F3 12.0 Tf  [(    {"plush": "Pig", "price": 75})] TJ ET
+BT 34.016 128.817 Td /F3 12.0 Tf  [(],)] TJ ET
+BT 34.016 116.366 Td /F3 12.0 Tf  [("trades": [)] TJ ET
+BT 34.016 103.916 Td /F3 12.0 Tf  [(    {"take": "RedBird", "give": "Pig"},)] TJ ET
+BT 34.016 91.466 Td /F3 12.0 Tf  [(    {"take": "Pig", "give": "Stella"})] TJ ET
+BT 34.016 79.016 Td /F3 12.0 Tf  [(]})] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 239.9597 516.8935 311.6117 528.7735 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://search.maven.org/)
+>>
+endobj
+13 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4236 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.6 w 0 J [  ] 0 d
+BT 34.016 784.469 Td /F2 12.0 Tf  [(then the response providing the optimal strategy is)] TJ ET
+BT 34.016 759.658 Td /F3 12.0 Tf  [({"actions":[)] TJ ET
+BT 34.016 747.208 Td /F3 12.0 Tf  [(    {"action":"sell","plush":"Stella","price":90})] TJ ET
+BT 34.016 734.758 Td /F3 12.0 Tf  [(]})] TJ ET
+BT 34.016 708.863 Td /F2 12.0 Tf  [(since the sales price of the )] TJ ET
+BT 163.316 708.863 Td /F3 12.0 Tf  [(Stella)] TJ ET
+BT 206.516 708.863 Td /F2 12.0 Tf  [( is highest, you cannot improve the price by trading.)] TJ ET
+BT 34.016 680.668 Td /F1 14.0 Tf  [(Example 2)] TJ ET
+BT 34.016 653.927 Td /F2 12.0 Tf  [(If the )] TJ ET
+BT 62.672 653.927 Td /F3 12.0 Tf  [(offerJSON)] TJ ET
+BT 127.472 653.927 Td /F2 12.0 Tf  [( is)] TJ ET
+BT 34.016 629.116 Td /F3 12.0 Tf  [({"plush": "RedBird"})] TJ ET
+BT 34.016 603.221 Td /F2 12.0 Tf  [(and the )] TJ ET
+BT 72.008 603.221 Td /F3 12.0 Tf  [(marketJSON)] TJ ET
+BT 144.008 603.221 Td /F2 12.0 Tf  [( is the same as above, then the optimal strategy is)] TJ ET
+BT 34.016 578.410 Td /F3 12.0 Tf  [({"actions":[)] TJ ET
+BT 34.016 565.959 Td /F3 12.0 Tf  [(    {"action":"trade","give":"RedBird","take":"Pig"},)] TJ ET
+BT 34.016 553.509 Td /F3 12.0 Tf  [(    {"action":"trade","give":"Pig","take":"Stella"},)] TJ ET
+BT 34.016 541.059 Td /F3 12.0 Tf  [(    {"action":"sell","plush":"Stella","price":90})] TJ ET
+BT 34.016 528.609 Td /F3 12.0 Tf  [(]})] TJ ET
+BT 34.016 502.714 Td /F2 12.0 Tf  [(since you can trade your )] TJ ET
+BT 154.316 502.714 Td /F3 12.0 Tf  [(RedBird)] TJ ET
+BT 204.716 502.714 Td /F2 12.0 Tf  [( to )] TJ ET
+BT 220.052 502.714 Td /F3 12.0 Tf  [(Pig)] TJ ET
+BT 241.652 502.714 Td /F2 12.0 Tf  [( and then trade the )] TJ ET
+BT 333.296 502.714 Td /F3 12.0 Tf  [(Pig)] TJ ET
+BT 354.896 502.714 Td /F2 12.0 Tf  [( to )] TJ ET
+BT 370.232 502.714 Td /F3 12.0 Tf  [(Stella)] TJ ET
+BT 413.432 502.714 Td /F2 12.0 Tf  [( with sales price of 90 instead )] TJ ET
+BT 34.016 488.458 Td /F2 12.0 Tf  [(of selling it directly at the market price of 80.)] TJ ET
+BT 34.016 460.263 Td /F1 14.0 Tf  [(Example 3)] TJ ET
+BT 34.016 433.522 Td /F2 12.0 Tf  [(If the )] TJ ET
+BT 62.672 433.522 Td /F3 12.0 Tf  [(offerJSON)] TJ ET
+BT 127.472 433.522 Td /F2 12.0 Tf  [( is)] TJ ET
+BT 34.016 408.711 Td /F3 12.0 Tf  [({"plush": "BlueBird"})] TJ ET
+BT 34.016 382.816 Td /F2 12.0 Tf  [(and the )] TJ ET
+BT 72.008 382.816 Td /F3 12.0 Tf  [(marketJSON)] TJ ET
+BT 144.008 382.816 Td /F2 12.0 Tf  [( is the same as above, then the optimal strategy is)] TJ ET
+BT 34.016 358.005 Td /F3 12.0 Tf  [({"actions":[]})] TJ ET
+BT 34.016 332.110 Td /F2 12.0 Tf  [(since there is no market price nor trades for the )] TJ ET
+BT 263.288 332.110 Td /F3 12.0 Tf  [(BlueBird)] TJ ET
+BT 320.888 332.110 Td /F2 12.0 Tf  [( plush.)] TJ ET
+BT 34.016 303.915 Td /F1 14.0 Tf  [(Example 4)] TJ ET
+BT 34.016 278.619 Td /F3 12.0 Tf  [({)] TJ ET
+BT 34.016 266.169 Td /F3 12.0 Tf  [(    "plushes": [)] TJ ET
+BT 34.016 253.718 Td /F3 12.0 Tf  [(        { "plush": "Chuck", "price": 100 },)] TJ ET
+BT 34.016 241.268 Td /F3 12.0 Tf  [(        { "plush": "RedBird", "price": 80  },)] TJ ET
+BT 34.016 228.818 Td /F3 12.0 Tf  [(        { "plush": "Gaia", "price": 80 },)] TJ ET
+BT 34.016 216.368 Td /F3 12.0 Tf  [(        { "plush": "Stella", "price": 90 },)] TJ ET
+BT 34.016 203.917 Td /F3 12.0 Tf  [(        { "plush": "Bomb", "price": 85 },)] TJ ET
+BT 34.016 191.467 Td /F3 12.0 Tf  [(        { "plush": "Pig", "price": 75 })] TJ ET
+BT 34.016 179.017 Td /F3 12.0 Tf  [(    ],)] TJ ET
+BT 34.016 166.567 Td /F3 12.0 Tf  [(        "trades": [)] TJ ET
+BT 34.016 154.116 Td /F3 12.0 Tf  [(        { "take": "RedBird", "give": "Pig" },)] TJ ET
+BT 34.016 141.666 Td /F3 12.0 Tf  [(        { "take": "Pig", "give": "Stella" },)] TJ ET
+BT 34.016 129.216 Td /F3 12.0 Tf  [(        { "take": "Chuck", "give": "Stella" },)] TJ ET
+BT 34.016 116.766 Td /F3 12.0 Tf  [(        { "take": "Stella", "give": "Bomb" },)] TJ ET
+BT 34.016 104.315 Td /F3 12.0 Tf  [(        { "take": "Gaia", "give": "RedBird" },)] TJ ET
+BT 34.016 91.865 Td /F3 12.0 Tf  [(        { "take": "Bomb", "give": "RedBird" })] TJ ET
+BT 34.016 79.415 Td /F3 12.0 Tf  [(    ])] TJ ET
+BT 34.016 66.965 Td /F3 12.0 Tf  [(})] TJ ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 17 0 R ]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4454 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.6 w 0 J [  ] 0 d
+BT 34.016 784.469 Td /F2 12.0 Tf  [(If the )] TJ ET
+BT 62.672 784.469 Td /F3 12.0 Tf  [(offerJSON)] TJ ET
+BT 127.472 784.469 Td /F2 12.0 Tf  [( is)] TJ ET
+BT 34.016 759.658 Td /F3 12.0 Tf  [({"plush": "Stella"})] TJ ET
+BT 34.016 733.763 Td /F2 12.0 Tf  [(then the optimal strategy would be)] TJ ET
+BT 34.016 708.952 Td /F3 12.0 Tf  [({)] TJ ET
+BT 34.016 696.502 Td /F3 12.0 Tf  [(  "actions": [)] TJ ET
+BT 34.016 684.051 Td /F3 12.0 Tf  [(    { "action": "sell", "plush": "Stella", "price": 90 })] TJ ET
+BT 34.016 671.601 Td /F3 12.0 Tf  [(  ])] TJ ET
+BT 34.016 659.151 Td /F3 12.0 Tf  [(})] TJ ET
+BT 34.016 633.256 Td /F2 12.0 Tf  [(While the above are simple indicative examples, any client of such a system can provide wider ranging, )] TJ ET
+BT 34.016 619.000 Td /F2 12.0 Tf  [(more complex markets. Efforts should be made to generalize the solution provided to handle such non-trivial )] TJ ET
+BT 34.016 604.744 Td /F2 12.0 Tf  [(inputs.)] TJ ET
+BT 34.016 569.846 Td /F1 18.0 Tf  [(Other critical requirements and conventions \(not entirely )] TJ ET
+BT 34.016 548.462 Td /F1 18.0 Tf  [(applicable for a verbal solution\))] TJ ET
+BT 34.016 515.901 Td /F1 14.0 Tf  [(Immutability)] TJ ET
+BT 34.016 489.160 Td /F2 12.0 Tf  [(A strong recommendation is to keep things immutable; this applies especially to anything returned from any )] TJ ET
+BT 34.016 474.904 Td /F2 12.0 Tf  [(public API, but also internally having mutable state should not be the default behaviour.)] TJ ET
+BT 34.016 448.648 Td /F2 12.0 Tf  [(We accept mutability if really needed.)] TJ ET
+0.000 0.000 0.800 rg
+BT 34.016 422.392 Td /F2 12.0 Tf  [(Immutables)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+34.016 419.692 m 90.680 419.692 l S
+0.000 0.000 0.000 rg
+BT 90.680 422.392 Td /F2 12.0 Tf  [( is used for immutable classes.)] TJ ET
+BT 34.016 394.198 Td /F1 14.0 Tf  [(No nulls)] TJ ET
+BT 34.016 367.457 Td /F2 12.0 Tf  [(This rule applies everywhere in the code.)] TJ ET
+BT 34.016 341.201 Td /F2 12.0 Tf  [(Methods must not return or accept nulls. The only exception are 3rd party classes and the usage of those )] TJ ET
+BT 34.016 326.945 Td /F2 12.0 Tf  [(classes must not leak outside the using class.)] TJ ET
+BT 34.016 300.689 Td /F2 12.0 Tf  [(Internal class communication must always use )] TJ ET
+BT 259.988 300.689 Td /F3 12.0 Tf  [(Optional.empty\(\))] TJ ET
+BT 375.188 300.689 Td /F2 12.0 Tf  [( instead of )] TJ ET
+BT 428.180 300.689 Td /F3 12.0 Tf  [(null)] TJ ET
+BT 456.980 300.689 Td /F2 12.0 Tf  [(. This makes it clear )] TJ ET
+BT 34.016 286.433 Td /F2 12.0 Tf  [(when a variable can be missing and the caller can prepare for it. There won't be unnecessary null checks in )] TJ ET
+BT 34.016 272.177 Td /F2 12.0 Tf  [(the code with this policy.)] TJ ET
+BT 34.016 245.921 Td /F1 12.0 Tf  [(Note)] TJ ET
+BT 58.004 245.921 Td /F2 12.0 Tf  [(, Immutables doesn't allow nulls as variable values. )] TJ ET
+BT 307.472 245.921 Td /F1 12.0 Tf  [(Lists/sets/maps are empty, not null)] TJ ET
+BT 485.144 245.921 Td /F2 12.0 Tf  [(.)] TJ ET
+BT 34.016 219.665 Td /F2 12.0 Tf  [(If the class can be serialized/deserialized to JSON, possibly missing values must be handled as Optional.)] TJ ET
+BT 34.016 193.409 Td /F2 12.0 Tf  [(There are several good reasons for this policy:)] TJ ET
+BT 34.016 168.598 Td /F3 12.0 Tf  [(APIs should make it clear if something can or cannot be missing. Nullable variable doesn't do that. There are annotations for that but they don't enforce the policy at compilation level and require static analysis to be enforced properly. Otherwise they are pretty much useless in the long run.)] TJ ET
+BT 34.016 156.147 Td /F3 12.0 Tf  [(Optional provides cleaner code with its functional API than null does.)] TJ ET
+BT 34.016 143.697 Td /F3 12.0 Tf  [(Multiple developers and long running project tend to degenerate into tangle of null checks in the end. Developers can't be sure if a variable can be null or not and add possibly unnecessary null checks everywhere cluttering the code. The alternative is not to add them and fail miserably when the variable is null after a few modifications.)] TJ ET
+BT 34.016 131.247 Td /F3 12.0 Tf  [(This policy works only if it is applied everywhere within the project. There must not be any exceptions between methods/classes!)] TJ ET
+BT 34.016 103.413 Td /F1 14.0 Tf  [(Add tests)] TJ ET
+BT 34.016 76.672 Td /F2 12.0 Tf  [(And then test some more)] TJ ET
+endstream
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 34.0157 421.3125 90.6797 433.1925 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://immutables.github.io/)
+>>
+endobj
+19 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 21 0 R ]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 829 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+BT 34.016 775.827 Td /F1 18.0 Tf  [(Soft requirements)] TJ ET
+BT 34.016 743.267 Td /F1 14.0 Tf  [(Apply SOLID principles)] TJ ET
+BT 34.016 716.526 Td /F2 12.0 Tf  [(Please try the best you can to stick to those, we are obsessed with clean code and we would like to find more )] TJ ET
+BT 34.016 702.270 Td /F2 12.0 Tf  [(people on the same page)] TJ ET
+BT 34.016 674.075 Td /F1 14.0 Tf  [(Checkout object calisthenics)] TJ ET
+BT 34.016 647.334 Td /F2 12.0 Tf  [(This is a recent subject also in our team, we think we can get some benefit out of )] TJ ET
+0.000 0.000 0.800 rg
+BT 424.952 647.334 Td /F2 12.0 Tf  [(those rules)] TJ ET
+0.6 w 0 J [  ] 0 d
+424.952 644.634 m 476.612 644.634 l S
+0.000 0.000 0.000 rg
+BT 476.612 647.334 Td /F2 12.0 Tf  [(. Do you too?)] TJ ET
+endstream
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 424.9517 646.2544 476.6117 658.1344 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://blog.avenuecode.com/object-calisthenics-principles-for-better-object-oriented-code)
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000316 00000 n 
+0000000345 00000 n 
+0000000459 00000 n 
+0000000541 00000 n 
+0000006923 00000 n 
+0000007031 00000 n 
+0000007140 00000 n 
+0000007246 00000 n 
+0000007374 00000 n 
+0000007450 00000 n 
+0000007515 00000 n 
+0000011804 00000 n 
+0000011888 00000 n 
+0000016395 00000 n 
+0000016521 00000 n 
+0000016602 00000 n 
+0000016686 00000 n 
+0000017567 00000 n 
+0000017695 00000 n 
+trailer
+<<
+/Size 23
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+17837
+%%EOF
